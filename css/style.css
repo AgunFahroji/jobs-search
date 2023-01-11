@@ -1,0 +1,227 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    ;
+    background-color: #FFF5EC;
+}
+
+.navbar .btn-login {
+    font-size: 14px;
+}
+
+.navbar .btn-sign {
+    background-color: #F2994A;
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 25px;
+    font-size: 14px;
+}
+
+.navbar .btn-sign:hover {
+    background-color: #f7a864;
+}
+
+.header h1 {
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.header p {
+    width: 420px;
+}
+
+.header h1 span {
+    color: #F2994A;
+}
+
+.header ul {
+    padding-left: 0;
+}
+
+.header ul li {
+    display: inline;
+    margin-right: 12px;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: #F2994A;
+    font-weight: 600;
+}
+
+.header img {
+    margin-top: -60px;
+}
+
+#companies {
+    padding: 100px;
+    background-color: #fff;
+}
+
+.companies span {
+    color: #F2994A;
+}
+
+.categories p {
+    color: #F2994A;
+}
+
+.categories {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.categories .card {
+    border: none;
+    border-radius: 28px;
+    height: 120px;
+}
+
+.categories .card:hover {
+    background-color: #F2994A;
+}
+
+.categories .card h5 {
+    font-size: 16px;
+}
+
+.categories .card p {
+    color: #828282;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.account span {
+    color: #F2994A;
+}
+
+.account p {
+    font-size: 14px;
+}
+
+.account .btn-account {
+    background-color: #F2994A;
+    color: #fff;
+    padding: 10px;
+    border-radius: 28px;
+}
+
+.account .btn-account:hover {
+    background-color: #f7a864;
+}
+
+.step span {
+    color: #F2994A;
+}
+
+.step p {
+    font-size: 14px;
+}
+
+.step .card {
+    border: none;
+    border-radius: 28px;
+}
+
+.step .card h4 {
+    color: #F2994A;
+    font-size: 16px;
+}
+
+.step .card p {
+    font-size: 14px;
+}
+
+.subscribe h2 {
+    color: #fff;
+}
+
+.subscribe .hh {
+    z-index: 3;
+}
+
+.subscribe {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+.subscribe .sub {
+    height: 400px;
+    border-radius: 80px;
+    background-color: #F2994A;
+}
+
+.subscribe .bell {
+    position: absolute;
+    top: -140px;
+    left: -100px;
+    z-index: 1;
+}
+
+.subscribe .bell2 {
+    position: absolute;
+    top: -80px;
+    left: 320px;
+    z-index: 1;
+}
+
+.subscribe .wave {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.subscribe .cari {
+    background-color: #fff;
+    height: 82px;
+    width: 460px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.subscribe .form {
+    border: none;
+    z-index: 2;
+}
+
+.subscribe .btn-search {
+    background-color: #F2994A;
+    border-radius: 20px;
+    width: 100px;
+    color: #fff;
+    z-index: 2;
+}
+
+.subscribe .btn-search:hover {
+    background-color: #f7a864;
+    color: #fff;
+}
+
+footer {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #fff;
+}
+
+.footer p {
+    margin-top: 32px;
+}
+
+.footer h5 {
+    margin-bottom: 56px;
+}
+
+.footer ul li {
+    list-style: none;
+    margin-left: -32px;
+    margin-top: 16px;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: #000;
+}
